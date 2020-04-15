@@ -1,6 +1,8 @@
 # notekeeper
 
-A new Flutter project.
+I made an Notekeeper Application which uses Local Storage to store notes This is version 1.0 of this app In Future I would be implementing Firebase Cloud Storage and User Sign In
+
+
 
 ## Getting Started
 
